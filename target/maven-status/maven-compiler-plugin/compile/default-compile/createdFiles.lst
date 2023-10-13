@@ -1,0 +1,7 @@
+Main.class
+controller\PersonManager.class
+view\Menu.class
+model\PersonList.class
+.netbeans_automatic_build
+common\Validation.class
+model\Person.class
